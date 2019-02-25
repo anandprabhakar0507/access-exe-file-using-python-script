@@ -5,5 +5,8 @@
 * we can also use notepad editors to write a .py program
 
 #### see video below:
-![https://github.com/anandprabhakar0507/access-exe-file-using-python-script/blob/master/demo.gif](https://youtu.be/2DqF5Li0PVg)
+![https://github.com/anandprabhakar0507/access-exe-file-using-python-script/blob/master/3.png](https://youtu.be/2DqF5Li0PVg)
+![https://github.com/anandprabhakar0507/access-exe-file-using-python-script/blob/master/2.png](https://youtu.be/2DqF5Li0PVg)
+![https://github.com/anandprabhakar0507/access-exe-file-using-python-script/blob/master/1.png](https://youtu.be/2DqF5Li0PVg)
+
 
